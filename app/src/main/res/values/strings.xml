@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News API D3</string>
+    <string name="constants_categories_error">Error loading Categories</string>
+    <string name="content_description_avatar_image">\"News Article Image\"</string>
+    <string name="api_error_loading_articles">Error loading articles</string>
+    <string name="saved_star_description">Saved Star</string>
+</resources>

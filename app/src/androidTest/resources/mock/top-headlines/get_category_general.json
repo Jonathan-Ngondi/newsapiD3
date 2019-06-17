@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo.com"
+      },
+      "author": null,
+      "title": "Tyson Foods launches full-scale attack on Beyond Meat - Yahoo Finance",
+      "description": "Tyson Foods enters the mutant meat space.",
+      "url": "https://finance.yahoo.com/news/tyson-foods-launches-fullscale-attack-on-beyond-meat-113314991.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/YLGm._di8ClixeNMwb5.Dw--~B/aD01MTQ7dz02ODQ7c209MTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-06/9aeb92e0-8dce-11e9-966e-7ad2ab62146f",
+      "publishedAt": "2019-06-13T11:33:00Z",
+      "content": "Tyson Foods (TSN) is finally getting into the mutant-meat game being dominated by one-time friend Beyond Meat (BYND) and its heated rival Impossible Foods.\r\nThe U.S.s largest meat producer said Thursday it will debut several new plant-based products under the… [+2011 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Richard Lawler",
+      "title": "The Morning After: Google leaked the Pixel 4 - Engadget",
+      "description": "We’re powering through to the final day of E3 2019, and it’s time to talk about Wall TVs.",
+      "url": "https://www.engadget.com/2019/06/13/the-morning-after/",
+      "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-06%252Fac0df3a0-8dc5-11e9-bfde-22eeca86d419%26client%3Da1acac3e1b3290917d92%26signature%3D31cd2555820a2eacb23eac2b75593ff16a3b184b&client=amp-blogside-v2&signature=9e1e87861a3881831ea31795abcae84fbd457b42",
+      "publishedAt": "2019-06-13T10:45:36Z",
+      "content": "@GoogleLeaks.Google just revealed the Pixel 4\r\nAfter a purported render of the Pixel 4 popped up a few days ago, Google took the unusual step of directly leaking a pic of its own next phone. A tweet informed us to \"wait until you see what it can do,\" and if t… [+2997 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Lucien Bruggeman",
+      "title": "EXCLUSIVE: Trump reveals historic redesign of Air Force One - ABC News",
+      "description": "President Donald Trump shared never-before-seen images of Air Force One’s prospective redesign on Wednesday during an exclusive interview with ABC News.",
+      "url": "https://abcnews.go.com/Politics/exclusive-trump-unveils-patriotic-paint-job-air-force/story?id=63676678",
+      "urlToImage": "https://s.abcnews.com/images/US/donald-trump-george-stephanopoulos-bugged-02-abc-jc-190612_hpMain_16x9_992.jpg",
+      "publishedAt": "2019-06-13T10:38:00Z",
+      "content": "Less than a year after announcing a $3.9 billion makeover for America's most famous aircraft, President Donald Trump shared never-before-seen images of Air Force One's prospective redesign on Wednesday during an exclusive interview with ABC News.\r\nInterested … [+3160 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Madeline Holcombe and Holly Yan, CNN",
+      "title": "At least 24 police officers injured in protests after an officer-involved shooting left a man dead in Memphis - CNN",
+      "description": "What started as a protest over the death of a Memphis man devolved into chaos Wednesday night after demonstrators threw bricks at police and vandalized squad cars, officials said",
+      "url": "https://www.cnn.com/2019/06/13/us/memphis-shooting-officers-injured/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190613111131-01-memphis-shooting-0612-super-tease.jpg",
+      "publishedAt": "2019-06-13T10:36:00Z",
+      "content": "(CNN)What started as a protest over the death of a Memphis man devolved into chaos Wednesday night after demonstrators threw bricks at police and vandalized squad cars, officials said \r\nAt least 24 officers and deputies were injured in the melee, Memphis Mayo… [+637 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Youtube.com"
+      },
+      "author": null,
+      "title": "Rich Paul warns the Celtics about trading for Anthony Davis | Jalen & Jacoby - ESPN",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=RatIuCHfpoQ",
+      "urlToImage": null,
+      "publishedAt": "2019-06-13T10:34:51Z",
+      "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "AT&T is the latest to cancel Galaxy Fold preorders - The Verge",
+      "description": "AT&T has become the latest retailer to cancel customer preorders for the Galaxy Fold. It said that any money paid in advance would be refunded, and that affected customers would receive a $100 AT&T Promotion Card.",
+      "url": "https://www.theverge.com/2019/6/13/18677306/att-cancels-galaxy-fold-preorders-best-buy-release-date-news",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/g9ZOYvBCDa90uycB3TAbySbmag4=/0x292:2040x1360/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16162669/akrales_190417_3377_0039.jpg",
+      "publishedAt": "2019-06-13T10:31:48Z",
+      "content": "Photo by Amelia Holowaty Krales / The Verge\r\nAT&amp;T has become the latest retailer to cancel preorders for the Galaxy Fold. In an email received by Toms Guide regarding the publications preorder device, AT&amp;T said that Samsung delayed the release of the … [+1516 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Tess Demeyer",
+      "title": "2019 US Open: Round 1 tee times, TV channels, streaming info - USA TODAY",
+      "description": "With the 2019 U.S. Open teeing off Thursday, here's all the info you need to watch Brooks Koepka, Tiger Woods, Phil Mickelson and more",
+      "url": "https://www.usatoday.com/story/sports/golf/pga/2019/06/13/us-open-golf-2019-tv-streaming-round-one/1410886001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2019/06/11/USAT/e4b60764-bad8-45d4-b248-c31d32173e81-USP_PGA__U.S._Open_-_Practice_Round.JPG?crop=1514,852,x254,y139&width=3200&height=1680&fit=bounds",
+      "publishedAt": "2019-06-13T10:19:00Z",
+      "content": "With the U.S. Open approaching, USA TODAY Sports sat down with Adam Scott to discuss the diverse golf course that will host the tournament: Pebble Beach.\r\n USA TODAY\r\nFor golfers teeing off at Pebble Beach Golf Links in California for the 2019 U.S. Open, ther… [+4876 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sheena McKenzie, CNN",
+      "title": "Amanda Knox arrives in Italy for first time since prison release - CNN",
+      "description": "Amanda Knox has set foot in Italy for the first time since being released from prison in 2011, following her acquittal over the murder of British student Meredith Kercher.",
+      "url": "https://www.cnn.com/2019/06/13/europe/amanda-knox-italy-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190613105229-01-amanda-knox-italy-0613-restricted-super-tease.jpg",
+      "publishedAt": "2019-06-13T09:56:00Z",
+      "content": "(CNN)Amanda Knox has set foot in Italy for the first time since being released from prison in 2011, following her acquittal over the murder of British student Meredith Kercher.\r\nKnox is in the country as a guest speaker for a panel session -- titled \"Trial by… [+3133 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Tanker incident in Gulf of Oman: Live updates - CNN",
+      "description": "Authorities are investigating reports that two tankers have been attacked in the Gulf of Oman. Get the latest updates here.",
+      "url": "https://www.cnn.com/middleeast/live-news/gulf-of-oman-incident-latest-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190613100408-gulf-of-oman-map-super-tease.jpg",
+      "publishedAt": "2019-06-13T09:52:00Z",
+      "content": "All 21 crew members on the Panamanian ship Kokuka Courageous, one of two ships reportedly hit in the Gulf of Oman on Thursday, abandoned their vessel, the Singapore-based Bernard Schulte Shipping Management (BSM) company said in a statement.\r\nOne of the sailo… [+1559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Npr.org"
+      },
+      "author": "Scott Neuman",
+      "title": "World Health Organization To Meet Over Ebola As Second Death In Uganda - NPR",
+      "description": "The latest outbreak has killed nearly 1,400 people in Democratic Republic of the Congo, but new cases in neighboring Uganda have raised further concern at the World Health Organization.",
+      "url": "https://www.npr.org/2019/06/13/732266367/who-weighs-declaring-global-health-emergency-as-ebola-spreads-in-africa",
+      "urlToImage": "https://media.npr.org/assets/img/2019/06/13/ap_19163457428952_wide-f8342f2af429d9dc749823211b581107f7d29b69.jpg?s=1400",
+      "publishedAt": "2019-06-13T09:37:00Z",
+      "content": "People crossing the border have their temperature taken to check for symptoms of Ebola, near Kasindi, eastern Congo on Wednesday.\r\nAl-hadji Kudra Maliro/AP\r\nThe World Health Organization is considering whether to declare the current Ebola outbreak in central … [+2355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theringer.com"
+      },
+      "author": "Bryan Curtis",
+      "title": "The Iowa Reporter Working the Nick Nurse Beat at the NBA Finals - The Ringer",
+      "description": "The whole world is covering Warriors-Raptors. The New York Times. ESPN. And … the Carroll Times Herald? Here’s why these Finals are so important to a small burg in Iowa.",
+      "url": "https://www.theringer.com/nba/2019/6/13/18677258/nick-nurse-iowa-reporter-raptors-warriors-finals-carroll-brandon-hurley",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/BDxX8PA-F0MhxKROTBrrCFUx7FA=/0x63:3200x1738/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16341457/carroll_times_herald_bryan_getty_ringer.jpg",
+      "publishedAt": "2019-06-13T09:30:00Z",
+      "content": "At the NBA Finals, coaches often find themselves answering to reporters theyve never met. Take the curly-haired reporter who asked Steve Kerr a question after Game 5. Steve, the man said, introducing himself into a microphone. Brandon Hurley with the Carroll … [+6731 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "MARC CAPUTO",
+      "title": "It’s not just Trump questioning Biden’s age. Democrats are, too. - POLITICO",
+      "description": "&quot;It’s the 78-year-old elephant in the room,&quot; said a Democratic consultant and pollster, referring to the age the former veep would be if he’s elected president.",
+      "url": "https://www.politico.com/story/2019/06/13/joe-biden-age-trump-2020-1361782",
+      "urlToImage": "https://static.politico.com/f7/99/5f03d70f42dc829d585623248f36/190612-joe-biden-gty-773.jpg",
+      "publishedAt": "2019-06-13T09:01:00Z",
+      "content": "If he were to win in 2020, Joe Biden would be eight years older than the oldest president ever to take office Donald Trump. | Scott Olson/Getty Images\r\nDonald Trump isnt subtle about telegraphing what he believes is his best line of attack against Joe Biden: … [+9747 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Npr.org"
+      },
+      "author": null,
+      "title": "Federal Opioid Funds Don't Address Broader Drug Epidemic, States Say : Shots - Health News - NPR",
+      "description": "The U.S. government has doled out at least $2.4 billion in state grants since 2017, specifically targeting the opioid epidemic. Yet drug abuse problems seldom involve only one substance.",
+      "url": "https://www.npr.org/sections/health-shots/2019/06/13/731512068/federal-grants-restricted-to-fighting-opioids-miss-the-mark-states-say",
+      "urlToImage": "https://media.npr.org/assets/img/2019/06/12/ap_18345737074349_wide-7067929944db6b5af62271b80be3a76d77dd7e15.jpg?s=1400",
+      "publishedAt": "2019-06-13T09:00:00Z",
+      "content": "Drug agents last fall worked with a Minneapolis police SWAT team to seize just under 171 pounds of methamphetamine. Many U.S. states say they face an escalating problem with meth and drugs other than opioids.\r\nCannon River Drug and Violent Task Force/AP\r\nIn h… [+6466 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Lauren Frias",
+      "title": "Incredible photos capture SpaceX's Falcon 9 rocket piercing the fog during its successful launch - Business Insider",
+      "description": "SpaceX successfully launched and landed a used Falcon 9 rocket carrying three Earth-observing satellites to observe Canadian territory and oceans.",
+      "url": "https://www.businessinsider.com/spacex-launched-a-used-falcon-9-rocket-carrying-three-satellites-2019-6",
+      "urlToImage": "https://amp.businessinsider.com/images/5d01d0846fc92063d46055e4-2732-1366.jpg",
+      "publishedAt": "2019-06-13T08:07:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Gerren Keith Gaynor",
+      "title": "Jessica Biel lobbies with anti-vaxxer Robert F Kennedy, criticized on social media - Fox News",
+      "description": "",
+      "url": "https://www.foxnews.com/entertainment/jessica-biel-lobbies-against-california-vaccination-bill-draws-the-ire-of-social-media",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/06/Jessica-Biel-RFK-thumb.png",
+      "publishedAt": "2019-06-13T07:24:11Z",
+      "content": "Jessica Biel visited the California State Capitol on Tuesday to lobby in support of what some consider to be an “anti-vaccination” stance against a bill that has been introduced in the state Senate, reports said.\r\nThe actress joined environmental activist Rob… [+1264 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Lisa Barrington",
+      "title": "Two oil tankers struck in suspected attacks in Gulf of Oman: shipping firms - Reuters",
+      "description": "Two oil tankers were attacked in the Gulf of Oman on Thursday, leaving one ablaze and both adrift, shipping firms said, driving oil prices as much as 4% higher over worries about Middle East supplies.",
+      "url": "https://www.reuters.com/article/us-mideast-tanker/two-oil-tankers-struck-in-suspected-attacks-in-gulf-of-oman-shipping-firms-idUSKCN1TE0OI",
+      "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "publishedAt": "2019-06-13T07:09:00Z",
+      "content": "DUBAI (Reuters) - Two oil tankers were attacked in the Gulf of Oman on Thursday, leaving one ablaze and both adrift, shipping firms said, driving oil prices as much as 4% higher over worries about Middle East supplies. \r\nThe Front Altair, carrying petrochemic… [+4495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Justjared.com"
+      },
+      "author": null,
+      "title": "Cassie is Pregnant, Expecting First Child with Personal Trainer Boyfriend Alex Fine! - Just Jared",
+      "description": "Congrats!!",
+      "url": "http://www.justjared.com/2019/06/13/cassie-is-pregnant-expecting-first-child-with-personal-trainer-boyfriend-alex-fine/",
+      "urlToImage": "http://cdn01.cdn.justjared.com/wp-content/uploads/headlines/2019/06/cassie-preg.jpg",
+      "publishedAt": "2019-06-13T06:17:56Z",
+      "content": "Cassie is going to be a mom!\r\nThe 32-year-old singer took to Instagram on Wednesday (June 12) to announce that she and boyfriend personal trainer Alex Fine are expecting a baby girl.\r\nCant wait to meet our baby girl Love You Always &amp; Forever, Cassie wrote… [+652 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "China's Vice Premier Liu He calls for more measures to support economy - CNBC",
+      "description": "Chinese regulators should step up support for the economy and keep ample liquidity in the financial system, Vice Premier Liu He said on Thursday, suggesting Beijing would soon unveil more policies to bolster growth amid rising U.S. trade pressure.",
+      "url": "https://www.cnbc.com/2019/06/13/chinas-vice-premier-liu-he-calls-for-more-measures-to-support-economy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105901834-1557368862146gettyimages-1134905939.jpeg?v=1560401854",
+      "publishedAt": "2019-06-13T06:12:23Z",
+      "content": "Chinese regulators should step up support for the economy and keep ample liquidity in the financial system, Vice Premier Liu He said on Thursday, suggesting Beijing would soon unveil more policies to bolster growth amid rising U.S. trade pressure.\r\n Beijing h… [+3431 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Stltoday.com"
+      },
+      "author": "Benjamin Hochman",
+      "title": "Hochman: 'It had to be this way, man.' The Blues, instant icons in St. Louis, win Stanley Cup in unique fashion - STLtoday.com",
+      "description": "BOSTON — It’s like a fantasy land down here on the ice — a dizzying and delirious and delightful feeling as you wander around the whirring and wooooooooing Blues.",
+      "url": "https://www.stltoday.com/sports/columns/benjamin-hochman/hochman-it-had-to-be-this-way-man-the-blues/article_bb35aa67-0a4c-5367-a1d3-e8c8c30369d0.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/71/871e2d1e-da80-5561-9d94-9a2198bb4155/5d01ce7b89104.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+      "publishedAt": "2019-06-13T05:50:00Z",
+      "content": "BOSTON  Its like a fantasy land down here on the ice a dizzying and delirious and delightful feeling as you wander around the whirring and wooooooooing Blues.\r\nEverywhere you look, every turn, theres just joy. Theres goalie Jordan Binnington, an instant icon … [+48506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Etonline.com"
+      },
+      "author": "Meredith B. Kile‍",
+      "title": "Kevin Jonas Reveals His Daughter Almost Spoiled the Jonas Brothers' Reunion Secret! - Entertainment Tonight",
+      "description": "Thankfully, Alena Jonas' classmates kept the secret under wraps.",
+      "url": "https://www.etonline.com/kevin-jonas-reveals-his-daughter-almost-spoiled-the-jonas-brothers-reunion-secret-126952",
+      "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2019-06/gettyimages-1149619995.jpg?itok=sEkA8o2i",
+      "publishedAt": "2019-06-13T03:23:12Z",
+      "content": "The Jonas Brothers' reunion was almost spoiled -- by someone in their own family! Luckily, she's too cute to stay mad at for long.\r\nThe brothers were guests on The Tonight Show With Jimmy Fallon on Wednesday, where they dished on their new album, Happiness Be… [+1990 chars]"
+    }
+  ]
+}
